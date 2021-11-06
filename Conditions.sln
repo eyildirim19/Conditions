@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifStatements3Ornek", "ifSta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ifStatements4Ornek", "ifStatements4Ornek\ifStatements4Ornek.csproj", "{53C3E7AF-BF17-42C6-824F-D79E5FBC2B42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchCaseStatements", "switchCaseStatements\switchCaseStatements.csproj", "{50BB83BD-4A65-40DB-900D-CFC686832CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchCaseStatement2", "switchCaseStatement2\switchCaseStatement2.csproj", "{2F1A00D9-CD85-4019-8109-B976D61958C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switchcaseStatements3", "switchcaseStatements3\switchcaseStatements3.csproj", "{41C35130-4913-4529-87F2-1521045D187A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,18 @@ Global
 		{53C3E7AF-BF17-42C6-824F-D79E5FBC2B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C3E7AF-BF17-42C6-824F-D79E5FBC2B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C3E7AF-BF17-42C6-824F-D79E5FBC2B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50BB83BD-4A65-40DB-900D-CFC686832CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50BB83BD-4A65-40DB-900D-CFC686832CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50BB83BD-4A65-40DB-900D-CFC686832CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50BB83BD-4A65-40DB-900D-CFC686832CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1A00D9-CD85-4019-8109-B976D61958C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1A00D9-CD85-4019-8109-B976D61958C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1A00D9-CD85-4019-8109-B976D61958C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1A00D9-CD85-4019-8109-B976D61958C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C35130-4913-4529-87F2-1521045D187A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C35130-4913-4529-87F2-1521045D187A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C35130-4913-4529-87F2-1521045D187A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C35130-4913-4529-87F2-1521045D187A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
